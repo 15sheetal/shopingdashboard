@@ -3,4 +3,5 @@ pandas
 cufflinks
 plotly.express
 streamlit_option_menu 
+plotly
 
